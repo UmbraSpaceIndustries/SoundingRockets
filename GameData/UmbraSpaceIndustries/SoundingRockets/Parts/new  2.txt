@@ -1,0 +1,35 @@
+Sounding rockets
+
+0.35m form factor
+
+Motors (2) - With decoupling
+Nose cone w parachute, includes probe core
+ASeveral tiny science payloads (differing sizes/weights)
+
+Aeronomy Package		L
+Meterological Package	M
+Engineering Package		H
+Materials Package		
+
+
+ONE texture!
+
+
+---------------------------
+
+Karbonite notes:
+
+TEST 1:
+2 drills	16 RTGs
+
+TEST 2:
+1 Converter
+1 Drill		16 RTGs
+
+TEST 3:
+One generator
+Two drills (ventral or normal)
+1% deposit
+
+
+
