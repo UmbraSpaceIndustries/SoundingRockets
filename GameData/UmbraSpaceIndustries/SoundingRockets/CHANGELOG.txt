@@ -1,4 +1,12 @@
+0.3.0 - 2015.10.16
+------------------
+Fixed dry mass issues with fuel tanks
+Adjusted engines to be comparable to stock analogues
+Bundled updated USI Core
+*NOTE:  Reactors and Kontainers are not bundled, just the DLL
+
 0.2.2 - 2015.07.13
+------------------
 
 Adjusted dry mass of fuel tanks to be inline with stock
 Added three types of grid fins!
