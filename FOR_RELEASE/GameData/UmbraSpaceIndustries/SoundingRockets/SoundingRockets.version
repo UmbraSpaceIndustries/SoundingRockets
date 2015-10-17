@@ -1,0 +1,31 @@
+{
+     "NAME":"Sounding Rockets",
+     "URL":"https://raw.githubusercontent.com/BobPalmer/SoundingRockets/master/GameData/UmbraSpaceIndustries/SoundingRockets/SoundingRockets.version",
+     "DOWNLOAD":"https://github.com/BobPalmer/SoundingRockets/releases",
+     "GITHUB":{
+         "USERNAME":"BobPalmer",
+         "REPOSITORY":"SoundingRockets",
+         "ALLOW_PRE_RELEASE":false
+     },
+     "VERSION":{
+         "MAJOR":0,
+         "MINOR":2,
+         "PATCH":2,
+         "BUILD":0
+     },
+     "KSP_VERSION":{
+         "MAJOR":1,
+         "MINOR":0,
+         "PATCH":4
+     },
+     "KSP_VERSION_MIN":{
+         "MAJOR":1,
+         "MINOR":0,
+         "PATCH":2
+     },
+     "KSP_VERSION_MAX":{
+         "MAJOR":1,
+         "MINOR":0,
+         "PATCH":4
+     }
+ } 
