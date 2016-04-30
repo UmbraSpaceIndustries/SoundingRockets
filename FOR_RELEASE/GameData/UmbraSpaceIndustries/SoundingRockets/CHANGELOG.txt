@@ -1,3 +1,8 @@
+0.4.2 - 2016.04.30
+------------------
+Dependency Updates
+Antenna Range support and kOS support!
+
 0.4.1 - 2016.04.16
 ------------------
 Science experiments now face the right direction
