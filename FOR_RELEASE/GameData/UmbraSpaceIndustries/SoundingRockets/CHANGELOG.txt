@@ -1,3 +1,38 @@
+0.4.2.1 - 2016.04.30
+--------------------
+KSP 1.1.2 compatibility
+
+0.4.2 - 2016.04.30
+------------------
+Dependency Updates
+Antenna Range support and kOS support!
+
+0.4.1 - 2016.04.16
+------------------
+Science experiments now face the right direction
+Most radially attached sounding rocket components are now physicsless
+
+0.4.0 - TBD
+------------
+Compatibility with KSP 1.1
+
+0.3.4 - 2016.03.02
+------------------
+Dependency Updates
+
+0.3.3 - 2016.01.18
+------------------
+Removed SAS capability from the starter probe core (booo!)
+Cleaned up some deprecated config files
+
+0.3.1 - 2015.11.09
+------------------
+KSP 1.0.5 compatibility
+Fixed description of 0.625 nose cone
+Fixed attachment nodes
+Bulkhead profile updates
+Updated Filter Extensions config
+
 0.3.0 - 2015.10.16
 ------------------
 Fixed dry mass issues with fuel tanks
