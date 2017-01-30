@@ -1,3 +1,40 @@
+0.5.7 - 2017.01.15
+------------------
+Dependency Updates
+
+0.5.6 - 2017.01.01
+-------------------
+Some minor cost adjustments (a few things are now less expensive)
+There are two new parachutes - a cargo drogue chute and a large cargo chute.  Use these to avoid chute spam and to land truly massive payloads.
+Grid fins will now properly disable control surfaces when not deployed.  Note that since the module has changed, existing action groups will not work - you will need to reassign them.
+The 0.625m SRB has a fixed surface attach node
+
+0.5.5 - (KSP 1.2.2)
+-------------------
+Updates for KSP 1.2.2
+The Avionics Package and the .35m probe core now have basic transmitters built in (similar to all stock parts)
+The inline probe core now has Kerbnet access
+
+0.5.4 - (KSP 1.2.1)
+-------------------
+Dependency Updates
+
+0.5.3 - 2016.10.22
+------------------
+Dependency Updates
+
+0.5.2 - 2016.10.16
+------------------
+Dependency Updates
+
+0.5.1 - 2016.10.15
+------------------
+Updated categories for sounding rocket parts (Thanks IronCretin!)
+
+0.5.0 - (KSP 1.2)
+------------------
+Added some differences in the sounding rocket engine ISP levels and thrust for a bit more variety and long term use
+
 0.4.4 - (KSP 1.1.3)
 ------------------
 Dependency Updates
