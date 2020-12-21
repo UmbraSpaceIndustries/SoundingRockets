@@ -1,6 +1,6 @@
-1.4.0 - 2020.09.26
+1.4.0 - 2020.12.20
 ------------------
-KSP 1.10 Compatibility
+KSP 1.11 Compatibility
 All SoundingRocket parts are now more buoyant.
 Sounding rocket nose cones are now packed with foam, to make them super floaty.
 Sounding rocket parts are now a lot more durable.
