@@ -1,3 +1,20 @@
+1.4.0 - 2020.12.20
+------------------
+KSP 1.11 Compatibility
+All SoundingRocket parts are now more buoyant.
+Sounding rocket nose cones are now packed with foam, to make them super floaty.
+Sounding rocket parts are now a lot more durable.
+To encourage more sounding rocket use around Kerbin, the following changes have been implemented:
+- Sounding rocket experiments are now repeatable.
+- Sounding rocket experiments are now restricted to atmosphere only.
+- Sounding rocket experiments now give significantly more science.
+All rocket motors can toggle their auto-drop so that you can use the last motor as ablative landing gear.
+Adjusted the 0.625m nose cone's parachute dynamics to be more in line with a Mark 1 stock chute
+
+1.3.0 - 2019.10.28
+------------------
+KSP 1.8.x Compatibility
+
 1.2.0 - 2019.08.04
 ------------------
 KSP 1.7.x Compatibility
