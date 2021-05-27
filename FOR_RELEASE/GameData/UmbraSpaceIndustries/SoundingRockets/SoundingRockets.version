@@ -1,9 +1,9 @@
 {
      "NAME":"Sounding Rockets",
-     "URL":"https://raw.githubusercontent.com/BobPalmer/SoundingRockets/master/FOR_RELEASE/GameData/UmbraSpaceIndustries/SoundingRockets/SoundingRockets.version",
-     "DOWNLOAD":"https://github.com/BobPalmer/SoundingRockets/releases",
+     "URL":"https://raw.githubusercontent.com/UmbraSpaceIndustries/SoundingRockets/master/FOR_RELEASE/GameData/UmbraSpaceIndustries/SoundingRockets/SoundingRockets.version",
+     "DOWNLOAD":"https://github.com/UmbraSpaceIndustries/SoundingRockets/releases",
      "GITHUB":{
-         "USERNAME":"BobPalmer",
+         "USERNAME":"UmbraSpaceIndustries",
          "REPOSITORY":"SoundingRockets",
          "ALLOW_PRE_RELEASE":false
      },
